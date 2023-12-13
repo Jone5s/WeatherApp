@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="City">Tampere</string>
+    <string name="Description">Aurinkoista</string>
+    <string name="searchbutton">Foreca</string>
+    <string name="Temperature">+30</string>
+    <string name="Windspeed">4 m/s</string>
+    <string name="settings">Asetukset</string>
+    <string name="units">"Yksiköt: "</string>
+    <string name="save_settings">Tallenna asetukset</string>
+    <string name="temperature_label">Lämpötila</string>
+    <string name="description_label">Kuvaus</string>
+    <string name="wind_speed_label">Tuulen nopeus</string>
+</resources>
